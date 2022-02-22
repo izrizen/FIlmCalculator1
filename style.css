@@ -1,0 +1,29 @@
+.header{
+    position:relative;
+    left: 35%;
+    color: yellow;
+    font-size:  700%;
+    font-style: italic;
+    text-shadow: 3px black;
+    text-decoration: underline;
+    letter-spacing: 0.2em;
+}
+.inputBoxes{
+    text-align: center;
+    height: 10px;
+    padding-bottom: 10px;
+}
+.boxForm{
+    padding-bottom: 10px;
+}
+#temp{
+    font-size: 200%;
+}
+.calcButton{
+    position: relative;
+    left: 46.65%;
+    top:45px;
+}
+body{
+    background-color: rgba(47, 47, 47, 0.363);
+}
